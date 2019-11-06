@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hiadam.github.io/</id>
     <title>Gridea</title>
-    <updated>2019-11-06T14:54:51.974Z</updated>
+    <updated>2019-11-06T15:00:15.877Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://hiadam.github.io/"/>
     <link rel="self" href="https://hiadam.github.io//atom.xml"/>
@@ -10,4 +10,16 @@
     <logo>https://hiadam.github.io//images/avatar.png</logo>
     <icon>https://hiadam.github.io//favicon.ico</icon>
     <rights>All rights reserved 2019, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[测试]]></title>
+        <id>https://hiadam.github.io//post/ce-shi</id>
+        <link href="https://hiadam.github.io//post/ce-shi">
+        </link>
+        <updated>2019-11-06T14:57:13.000Z</updated>
+        <content type="html"><![CDATA[<p>文字测试<br>
+图片测试<br>
+直接复制粘贴<br>
+<img src="https://hiadam.github.io//post-images/1573052396799.png" alt=""></p>
+]]></content>
+    </entry>
 </feed>
