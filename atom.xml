@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hiadam.github.io/</id>
-    <title>Google</title>
-    <updated>2019-11-07T03:44:03.036Z</updated>
+    <title>Do good things, don&apos;t do bad things. 行善事，勿作恶。</title>
+    <updated>2019-11-07T03:45:02.678Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://hiadam.github.io/"/>
     <link rel="self" href="https://hiadam.github.io//atom.xml"/>
-    <subtitle>Do good things, don&apos;t do bad things. 行善事，勿作恶。</subtitle>
+    <subtitle>google</subtitle>
     <logo>https://hiadam.github.io//images/avatar.png</logo>
     <icon>https://hiadam.github.io//favicon.ico</icon>
-    <rights>All rights reserved 2019, Google</rights>
+    <rights>All rights reserved 2019, Do good things, don&apos;t do bad things. 行善事，勿作恶。</rights>
     <entry>
         <title type="html"><![CDATA[A549和HCC827显微镜下形态]]></title>
         <id>https://hiadam.github.io//post/a5491993-he-hcc827-xing-tai</id>
